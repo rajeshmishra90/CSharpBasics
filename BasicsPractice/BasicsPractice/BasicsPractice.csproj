@@ -48,6 +48,7 @@
     <Compile Include="AccurateSorting.cs" />
     <Compile Include="BeutifulWord.cs" />
     <Compile Include="BigSorting.cs" />
+    <Compile Include="CamelCase.cs" />
     <Compile Include="DayOfProgrammer.cs" />
     <Compile Include="Friendship.cs" />
     <Compile Include="GraphBFS.cs" />
