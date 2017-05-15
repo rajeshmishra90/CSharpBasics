@@ -6,7 +6,7 @@ namespace BasicsPractice
 {
     public class ZeroOneGame
     {
-        private static void Main(string[] args)
+        private static void MainZero(string[] args)
         {
             int g = Convert.ToInt32(Console.ReadLine());
             for (int a0 = 0; a0 < g; a0++)

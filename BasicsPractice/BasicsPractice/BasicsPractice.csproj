@@ -50,6 +50,8 @@
     <Compile Include="BigSorting.cs" />
     <Compile Include="DayOfProgrammer.cs" />
     <Compile Include="Friendship.cs" />
+    <Compile Include="GraphBFS.cs" />
+    <Compile Include="JailJump.cs" />
     <Compile Include="LinkedListSample.cs" />
     <Compile Include="MathDotPower.cs" />
     <Compile Include="MaximumDifference.cs" />
@@ -57,12 +59,16 @@
     <Compile Include="Pallindrome.cs" />
     <Compile Include="Permutations.cs" />
     <Compile Include="PrintPattern.cs" />
+    <Compile Include="QuickSort.cs" />
+    <Compile Include="RotateMatrix.cs" />
+    <Compile Include="SnakeLadderGame.cs" />
     <Compile Include="Sockmerchant.cs" />
     <Compile Include="TwoDArray_HourglassSum.cs" />
     <Compile Include="CountingSort.cs" />
     <Compile Include="DecimalToBinaryConversion.cs" />
     <Compile Include="Dictionary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WordPermutation.cs" />
     <Compile Include="ZeroOneGame.cs" />
   </ItemGroup>
   <ItemGroup>
