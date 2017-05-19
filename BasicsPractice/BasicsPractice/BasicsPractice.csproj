@@ -49,10 +49,14 @@
     <Compile Include="BeutifulWord.cs" />
     <Compile Include="BigSorting.cs" />
     <Compile Include="CamelCase.cs" />
+    <Compile Include="CircularWalk.cs" />
     <Compile Include="DayOfProgrammer.cs" />
+    <Compile Include="Duplication.cs" />
     <Compile Include="Friendship.cs" />
+    <Compile Include="GeometricTrick.cs" />
     <Compile Include="GraphBFS.cs" />
     <Compile Include="JailJump.cs" />
+    <Compile Include="KillMonster.cs" />
     <Compile Include="LinkedListSample.cs" />
     <Compile Include="MathDotPower.cs" />
     <Compile Include="MaximumDifference.cs" />
@@ -61,6 +65,7 @@
     <Compile Include="Permutations.cs" />
     <Compile Include="PrintPattern.cs" />
     <Compile Include="QuickSort.cs" />
+    <Compile Include="ReadMSG.cs" />
     <Compile Include="RotateMatrix.cs" />
     <Compile Include="SnakeLadderGame.cs" />
     <Compile Include="Sockmerchant.cs" />
