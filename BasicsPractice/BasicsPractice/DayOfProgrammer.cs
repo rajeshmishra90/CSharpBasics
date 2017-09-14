@@ -8,11 +8,15 @@ namespace BasicsPractice
 {
     class DayOfProgrammer
     {
-        static void Mainbb(String[] args)
+        static void Mainvv(String[] args)
         {
-            int y = Convert.ToInt32(Console.ReadLine());
+            int y = Convert.ToInt32(Console.ReadLine()); // 26.09.1918
             bool isLeapyear = false;
-            if (y <= 1918)
+            if (y == 1918)
+            {
+                Console.WriteLine("26.09.1918");
+            }
+            else if (y < 1918)
             {
                 if (y % 4 == 0)
                     isLeapyear = true;

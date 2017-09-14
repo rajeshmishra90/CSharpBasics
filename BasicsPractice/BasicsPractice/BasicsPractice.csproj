@@ -46,11 +46,13 @@
   <ItemGroup>
     <Compile Include="AbstractClassSample.cs" />
     <Compile Include="AccurateSorting.cs" />
+    <Compile Include="ArraySearch.cs" />
     <Compile Include="BeutifulWord.cs" />
     <Compile Include="BigSorting.cs" />
     <Compile Include="CamelCase.cs" />
     <Compile Include="CircularWalk.cs" />
     <Compile Include="DayOfProgrammer.cs" />
+    <Compile Include="DivisibleSumPair.cs" />
     <Compile Include="Duplication.cs" />
     <Compile Include="Friendship.cs" />
     <Compile Include="GeometricTrick.cs" />
@@ -63,6 +65,9 @@
     <Compile Include="MegaPrime.cs" />
     <Compile Include="Pallindrome.cs" />
     <Compile Include="Permutations.cs" />
+    <Compile Include="PracticeTest1.cs" />
+    <Compile Include="PracticeTest2.cs" />
+    <Compile Include="PracticeTest3.cs" />
     <Compile Include="PrintPattern.cs" />
     <Compile Include="QuickSort.cs" />
     <Compile Include="ReadMSG.cs" />
